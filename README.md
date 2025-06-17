@@ -1,4 +1,4 @@
-# PostGrid Integration for Lead Ignite
+# PostGrid SDK
 
 An async Python client for the [PostGrid Print & Mail API](https://docs.postgrid.com/), integrated into the Lead Ignite backend. Built with `aiohttp` and `pydantic` for high-performance, type-safe API interactions.
 
